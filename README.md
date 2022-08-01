@@ -12,6 +12,9 @@
 ## Contact
 ![Screenshot (121)](https://user-images.githubusercontent.com/91497602/182195359-210c7e51-a619-468c-8bbf-c66e65a4e1ef.png)
 ![Screenshot (122)](https://user-images.githubusercontent.com/91497602/182195511-de3662a9-1328-4a92-b242-fa6eeaec3ba4.png)
+## Azure Deployment using Static web app:
+![Screenshot (124)](https://user-images.githubusercontent.com/91497602/182200463-2127cbcb-a92b-4779-92f0-5355fc544d40.png)
+
 
 
 
