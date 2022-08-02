@@ -1,5 +1,5 @@
 # This is my final project which i have designed and also deployed using azure resource by Sahiba Raj.
-## Here i have created a website named Dental Care which will help the people to get free consultations,book immediate appointments,know about the top dentists in one go who can solve their problems and can even reach out to them through their contact.
+## Here i have created a website named Dentile which will help the people to get free consultations,book immediate appointments,know about the top dentists in one go who can solve their problems and can even reach out to them through their contact.
 ## My website link: https://victorious-cliff-0f9b33010.1.azurestaticapps.net
 ## Down below are screenshots of my project as well as my azure deployment:-
 ## Home Page
